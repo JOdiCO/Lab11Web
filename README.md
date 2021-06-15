@@ -97,3 +97,4 @@ Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga
 
 - Tampilan page kontak
 ![L17](https://user-images.githubusercontent.com/56252129/122036974-54060500-cdfe-11eb-9d00-31fd3fced009.png)
+.
