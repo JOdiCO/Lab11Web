@@ -11,3 +11,4 @@ class ArtikelModel extends Model
     protected $useAutoIncrement = true;
     protected $allowedFields = ['judul', 'isi', 'status', 'slug', 'gambar'];
 } 
+
