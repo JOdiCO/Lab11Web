@@ -169,3 +169,24 @@ Menu admin dapat diakses dengan alamat http://localhost:8080/admin/artikel
 ### Langkah 9 - Menambah Data Artikel
 Tambahkan fungsi/method baru pada <b>Controller Artikel</b> dengan nama <b>add()</b>.
 ![Ss_16](https://user-images.githubusercontent.com/56252129/122964417-732e0500-d3b1-11eb-8797-9f36ab420162.PNG)
+
+Kemudian buat view untuk form tambah dengan nama <b>form_add.php</b> dalam folder <b>(/app/Views/artikel/)</b>.
+![Ss_17](https://user-images.githubusercontent.com/56252129/123026893-207f3800-d407-11eb-88d9-750d1c69ede9.PNG)
+
+Berikut tampilan form untuk menambah data artikel.
+![Ss_18](https://user-images.githubusercontent.com/56252129/123027002-4f95a980-d407-11eb-8b06-22f3a27ac094.PNG)
+
+### Langkah 10 - Mengubah Data
+Tambahkan fungsi/method baru pada <b>Controller Artikel</b> dengan nama <b>edit()</b>.
+![Ss_19](https://user-images.githubusercontent.com/56252129/123027419-0134da80-d408-11eb-9cf1-fc49e6c7ea84.PNG)
+
+Kemudian buat view untuk form tambah dengan nama <b>form_edit.php</b> dalam folder <b>(/app/Views/artikel/)</b>.
+![Ss_20](https://user-images.githubusercontent.com/56252129/123027825-b1a2de80-d408-11eb-86f7-7267b4df2d8c.PNG)
+
+Berikut tampilan form untuk mengubah data artikel.
+![Ss_21](https://user-images.githubusercontent.com/56252129/123027974-d9924200-d408-11eb-91c4-e5aaf9b14847.PNG)
+
+### Langkah 11 - Menghapus Data
+Tambahkan fungsi/method baru pada <b>Controller Artikel</b> dengan nama <b>delete()</b>.
+![Ss_22-](https://user-images.githubusercontent.com/56252129/123028467-94badb00-d409-11eb-8eae-220b5c931bbf.PNG)
+
