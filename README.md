@@ -33,11 +33,11 @@ Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:`php spark
 ![L04](https://user-images.githubusercontent.com/56252129/122025882-efde4380-cdf3-11eb-9acf-224f227d5876.PNG)
 
 <br>Codeigniter juga menyediakan mode debugging/development yang dapat menampilkan error/kesalahan dalam kode program. Cara mengaktifkannya dengan mengubah nama file `env` menjadi `.env` kemudian buka filenya dan ubah nilai <b>CI_ENVIRONMENT</b> menjadi <b>development</b>.
-![L05](https://user-images.githubusercontent.com/56252129/122025955-01bfe680-cdf4-11eb-8fc3-cff14b166856.PNG)
+![P_CI=development](https://user-images.githubusercontent.com/56252129/123894766-f094df00-d988-11eb-9d1f-e06f6b1515c8.PNG)
 
 Contoh error yang terjadi. Untuk mencoba error tersebut, ubah kode pada file
 app/Controller/Home.php hilangkan titik koma pada akhir kode`(disini sebenarnya saya masih gagal mengubah <b>CI_ENVIRONMENT</b> menjadi <b>development</b> jadi tampilan nya menjadi seperti ini)`.
-![L06](https://user-images.githubusercontent.com/56252129/122026500-772bb700-cdf4-11eb-998e-a89ae805bfd7.PNG)
+![P_ErorPage](https://user-images.githubusercontent.com/56252129/123894817-0bffea00-d989-11eb-99a9-76c0d2ce9564.PNG)
 
 ### Langkah 1 - Membuat Route
 - Router terletak pada file app/config/Routes.php
